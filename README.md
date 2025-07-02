@@ -1,4 +1,4 @@
-# MSEC: Modality-Invariant and -Specific Representations for Multimodal Sentiment Analysis
+# MSEC: Multi-Space Explicit Cooperation Representation Learning for Multimodal Sentiment Analysis
 Reference :Code for the [ACM MM 2020](https://2020.acmmm.org) paper [MISA: Modality-Invariant and -Specific Representations for Multimodal Sentiment Analysis](https://arxiv.org/pdf/2005.03545.pdf)
 
 
@@ -36,11 +36,11 @@ conda activate misa-code
 If this paper is useful for your research, please cite us at:
 
 ```
-@article{hazarika2020misa,
-  title={MSEC: Modality-Invariant and-Specific Representations for Multimodal Sentiment Analysis},
-  author={Hazarika, Devamanyu and Zimmermann, Roger and Poria, Soujanya},
-  journal={arXiv preprint arXiv:2005.03545},
-  year={2020}
+@article{,
+  title={MSEC: Multi-Space Explicit Cooperation Representation Learning for Multimodal Sentiment Analysis},
+  author={},
+  journal={},
+  year={2025}
 }
 ```
 
