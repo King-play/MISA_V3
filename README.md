@@ -37,7 +37,7 @@ If this paper is useful for your research, please cite us at:
 
 ```
 @article{hazarika2020misa,
-  title={MISA: Modality-Invariant and-Specific Representations for Multimodal Sentiment Analysis},
+  title={MSEC: Modality-Invariant and-Specific Representations for Multimodal Sentiment Analysis},
   author={Hazarika, Devamanyu and Zimmermann, Roger and Poria, Soujanya},
   journal={arXiv preprint arXiv:2005.03545},
   year={2020}
